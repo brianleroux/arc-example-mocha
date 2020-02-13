@@ -1,0 +1,15 @@
+{
+  "name": "arc-example-mocha",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "sandbox",
+    "test": "QUIET=1 mocha"
+  },
+  "dependencies": {
+    "@architect/architect": "^6.2.0",
+    "@begin/data": "^1.2.0",
+    "mocha": "^7.0.1",
+    "tiny-json-http": "^7.1.2"
+  }
+}
